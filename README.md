@@ -1,6 +1,6 @@
 - 👋 Hola, soy Lic. Jairo Mindiola Quintas
 
-- 👀 Me interesa la fisica, matematica, estadistica, electroquimica, nanotecnologia, programacion en Python y  R.
+- 👀 Me interesa la fisica, matematica, estadistica, nanotecnologia, ciencias de datos, programacion en Python y  R.
 
 - 🌱 Actualmente estoy estudiando Ciencias de Datos. Próximamente: Postgrado en Física y postgrado en  Ciencias de  datos.
 
