@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @jairomqcode
+- 
 - 👀 Me interesa la fisica, matematica, estadistica, electroquimica, nanotecnologia, programacion en Python y  R.
+- 
 - 🌱 Actualmente estoy aprendiendo Ciencias de Datos. Próximamente: Postgrado en Física y postgrado en  Ciencias de  datos.
-- 💞️ I’m looking to collaborate on  investigacion en el area de Ciencias de Datos  para coorporaciones y empresas.  Tambien, me interesan proyectos de investigacion en el area de la nanotecnologia y  fuentes de energias alternativas.
+- 
+- 💞️ busco colaborar en investigacion en el area de Ciencias de Datos  para coorporaciones y empresas.  Tambien, me interesan proyectos de investigacion en el area de la nanotecnologia y  fuentes de energias alternativas.
+- 
 - 📫 How to reach me  jairomqcode@gmail.com y jairomqscience@gmail.com
 
 <!---
