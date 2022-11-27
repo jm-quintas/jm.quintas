@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @jairomqcode
+- 👋 Hola, soy Lic. Jairo Mindiola Quintas
 - 
 - 👀 Me interesa la fisica, matematica, estadistica, electroquimica, nanotecnologia, programacion en Python y  R.
 - 
-- 🌱 Actualmente estoy aprendiendo Ciencias de Datos. Próximamente: Postgrado en Física y postgrado en  Ciencias de  datos.
+- 🌱 Actualmente estoy estudiando Ciencias de Datos. Próximamente: Postgrado en Física y postgrado en  Ciencias de  datos.
 - 
 - 💞️ busco colaborar en investigacion en el area de Ciencias de Datos  para coorporaciones y empresas.  Tambien, me interesan proyectos de investigacion en el area de la nanotecnologia y  fuentes de energias alternativas.
 - 
-- 📫 How to reach me  jairomqcode@gmail.com y jairomqscience@gmail.com
+- 📫 Como contactarme:  jairomqcode@gmail.com y jairomqscience@gmail.com
 
 <!---
 jairomqcode/jairomqcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
