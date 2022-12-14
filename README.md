@@ -1,4 +1,4 @@
-- ### Hola, soy Lic. Jairo Mindiola Quintas
+- ### Hola, soy Licenciado en Física (Ciencias Exactas).
 
 - ### Me interesa la fisica, matematica, estadistica, nanotecnologia, ciencias de datos, programacion en Python y  R.
 
