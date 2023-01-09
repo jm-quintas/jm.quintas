@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Jairo Mindiola Quintas</h1>
 <h3 align="center">Soy Licenciado en Fisica y estudiante de Maestria en Ciencias de Datos.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jairomqcode" alt="jairomqcode" /></a> </p>
-
 - 🌱 I’m currently learning **Ciencias de Datos.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jairomqcode](https://github.com/jairomqcode)
