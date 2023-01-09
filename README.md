@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **jairomqcode@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/jairo-mindiola-quintas](www.linkedin.com/in/jairo-mindiola-quintas)
 
 
 <h3 align="left">Languages and Tools:</h3>
