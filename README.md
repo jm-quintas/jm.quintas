@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Ciencias de Datos, Nanociencia, Fisica, Matematicas, Estadisticas, Programacion en Python y R.**
 
-- 📫 How to reach me **jairomqcode@gmail.com | jairomqscience@gmail.com**
+- 📫 How to reach me **jairomqcode@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/jairo-mindiola-quintas](www.linkedin.com/in/jairo-mindiola-quintas)
 
