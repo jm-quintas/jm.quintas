@@ -1,5 +1,4 @@
-<h1 align="center">Hola 👋 ![image](https://user-images.githubusercontent.com/112170663/211440560-53578bb8-c4cb-4de8-ac21-af1f50cb55ea.png)
-, soy Jairo Mindiola Quintas</h1>
+<h1 align="center">Hola 👋 :sunglasses: , soy Jairo Mindiola Quintas</h1>
 <h3 align="center">Soy Licenciado en Física y estudiante de Maestría en Ciencias de Datos.</h3>
 
 <p>
