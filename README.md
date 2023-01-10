@@ -4,6 +4,8 @@
 <p>
   
 - Actualmente estoy estudiando **Ciencias de Datos | Análisis de Datos.**
+  
+- De interés personal: Matemáticas, Física, Estadísticas, Ciencias de Datos, Nanociencia, Aplicaciones de la Nanotecnología.
 
 - Contactarme: **jairomqcode@gmail.com | jairomqscience@gmail.com**
   
