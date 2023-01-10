@@ -3,7 +3,7 @@
 
 <p>
   
-- 🌱 Actualmente estoy estudiando **Ciencias de Datos | Análisis de Datos.**
+- 🌱 :bar_chart: Actualmente estoy estudiando **Ciencias de Datos | Análisis de Datos.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jairomqcode](https://github.com/jairomqcode)
 
