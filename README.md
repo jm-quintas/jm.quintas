@@ -3,9 +3,9 @@
 
 <p>
   
-- 🌱 Actualmente estoy estudiando **Ciencias de Datos | Análisis de Datos.**
+- Actualmente estoy estudiando **Ciencias de Datos | Análisis de Datos.**
 
-- 📫 Como contactarme: **jairomqcode@gmail.com**
+- Contactarme: **jairomqcode@gmail.com | jairomqscience@gmail.com**
   
 </p>
 
