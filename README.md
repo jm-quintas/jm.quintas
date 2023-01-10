@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jairomqcode](https://github.com/jairomqcode)
 
-- 💬 Preguntame sobre **Ciencias de Datos, Nanociencia, Fisica, Matematicas, Estadisticas, Programacion en Python y R.**
+- 💬 Preguntame sobre **Ciencias de Datos, Nanociencia, Física, Matemáticas, Estadísticas, Programación en Python y R.**
 
 - 📫 Como contactarme **jairomqcode@gmail.com**
 
