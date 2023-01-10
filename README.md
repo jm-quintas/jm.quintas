@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Jairo Mindiola Quintas</h1>
 <h3 align="center">Soy Licenciado en Fisica y estudiante de Maestria en Ciencias de Datos.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Ciencias de Datos | Analisis de Datos**
+- 🌱 Actualmente estoy aprendiendo **Ciencias de Datos | Analisis de Datos.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jairomqcode](https://github.com/jairomqcode)
 
