@@ -9,8 +9,12 @@
 
 - 📫 Como contactarme **jairomqcode@gmail.com**
 
-<h2>Lenguajes</h2>
+<h2>Lenguajes de Programación</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+<h2>Bases de Datos</h2>
+
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
