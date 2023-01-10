@@ -11,7 +11,7 @@
 
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"><h2>Lenguajes</h2>
+<h2>Lenguajes</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
