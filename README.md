@@ -2,6 +2,7 @@
 <h3 align="center">Soy Licenciado en Física y estudiante de Maestría en Ciencias de Datos.</h3>
 
 <p>
+  
 - 🌱 Actualmente estoy aprendiendo **Ciencias de Datos | Análisis de Datos.**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/jairomqcode](https://github.com/jairomqcode)
@@ -9,6 +10,7 @@
 - 💬 Preguntame sobre **Ciencias de Datos, Nanociencia, Física, Matemáticas, Estadísticas, Programación en Python y R.**
 
 - 📫 Como contactarme **jairomqcode@gmail.com**
+  
 </p>
 
 <h2>Sistemas Operativos</h2>
