@@ -10,11 +10,16 @@
 - 📫 Como contactarme **jairomqcode@gmail.com**
 
 
-
 <h2>Sistemas Operativos</h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+
+
+<h2>Sistemas de Control de Versiones</h2>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 <h2>Lenguajes</h2>
