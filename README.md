@@ -3,7 +3,7 @@
 
 <p>
   
-- Actualmente estoy estudiando **Ciencias de Datos | Análisis de Datos.**
+- Actualmente estoy estudiando **Ciencias de Datos.**
   
 - De interés personal: Matemáticas, Física, Estadísticas, Ciencias de Datos, Nanociencia y aplicaciones de la Nanotecnología.
 
