@@ -3,7 +3,7 @@
 
 <p>
   
-- Actualmente estoy estudiando **Ingeniería Matemática y computación | Especialización en Big data e Inteligencia Artificial.**
+- Actualmente estoy estudiando **Ingeniería Matemática y computación | Especialización en Big Data e Inteligencia Artificial.**
   
 - De interés personal: Matemáticas, Física, Estadísticas, Ciencias de Datos, Nanociencia y aplicaciones de la Nanotecnología.
 
