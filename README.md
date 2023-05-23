@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Jairo Mindiola Quintas</h1>
-<h3 align="center">Soy Licenciado en Física y estudiante de Maestría en Ciencias de Datos.</h3>
+<h3 align="center">Soy Licenciado en Física y estudiante de Maestría en Ingenieria Matemática y Computación.</h3>
 
 <p>
   
-- Actualmente estoy estudiando **Ingeniería Matemática y computación | Especialización en Big Data e Inteligencia Artificial.**
+- Actualmente estoy estudiando **Maestría en Ingeniería Matemática y computación | Especialización en Big Data e Inteligencia Artificial.**
   
 - De interés personal: Matemáticas, Física, Estadísticas, Ciencias de Datos, Nanociencia y aplicaciones de la Nanotecnología.
 
