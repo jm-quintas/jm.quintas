@@ -21,6 +21,6 @@
 <h2>Lenguajes</h2>
 
 ![Static Badge](https://img.shields.io/badge/Python-%23191A1B?style=for-the-badge&logo=python&logoColor=%2344A833)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Static Badge](https://img.shields.io/badge/R-%23191A1B?style=for-the-badge&logo=r&logoColor=%23276DC3)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
