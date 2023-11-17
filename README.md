@@ -14,7 +14,7 @@
 
 <h2>Sistemas de Control de Versiones</h2>
 
-![Static Badge](https://img.shields.io/badge/Git-%23222324?style=for-the-badge&logo=git)
+![Static Badge](https://img.shields.io/badge/Git-%23000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
