@@ -15,7 +15,7 @@
 <h2>Sistemas de Control de Versiones</h2>
 
 ![Static Badge](https://img.shields.io/badge/Git-%23191A1B?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-%23191A1B?style=for-the-badge&logo=github)
 
 
 <h2>Lenguajes</h2>
