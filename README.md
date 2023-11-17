@@ -23,4 +23,4 @@
 ![Static Badge](https://img.shields.io/badge/Python-%23191A1B?style=for-the-badge&logo=python&logoColor=%2344A833)
 ![Static Badge](https://img.shields.io/badge/R-%23191A1B?style=for-the-badge&logo=r&logoColor=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Latex-%23191A1B?style=for-the-badge&logo=latex&logoColor=%23008080)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Markdown-%23333333?style=for-the-badge&logo=markdown)
