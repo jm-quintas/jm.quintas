@@ -1,5 +1,5 @@
-<h1 align="center">Hola, soy Jairo Mindiola Quintas</h1>
-<h3 align="center">Soy Licenciado en Física y estudiante de Maestría en Ingenieria Matemática y Computación.</h3>
+### Hola, soy Jairo Mindiola Quintas.
+### Soy Licenciado en Física y estudiante de Maestría en Ingenieria Matemática y Computación.
 
 <p>
   
