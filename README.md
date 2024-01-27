@@ -3,8 +3,6 @@
 
 <p>
   
-- Actualmente estoy estudiando **Maestría en Ingeniería Matemática y computación**.
-  
 - De interés personal: Matemáticas, Física, Estadísticas, Ciencias de Datos, Nanociencia y aplicaciones de la Nanotecnología.
 
 - Contactarme: **jairomqcode@gmail.com | jairomqscience@gmail.com**
@@ -12,13 +10,13 @@
 </p>
 
 
-<h2>Sistemas de Control de Versiones</h2>
+## Sistemas de Control de Versiones.
 
 ![Static Badge](https://img.shields.io/badge/Git-%23191A1B?style=for-the-badge&logo=git)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23191A1B?style=for-the-badge&logo=github)
 
 
-<h2>Lenguajes</h2>
+## Lenguajes.
 
 ![Static Badge](https://img.shields.io/badge/Python-%23191A1B?style=for-the-badge&logo=python&logoColor=%2344A833)
 ![Static Badge](https://img.shields.io/badge/R-%23191A1B?style=for-the-badge&logo=r&logoColor=%2361DAFB)
