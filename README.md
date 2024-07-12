@@ -1,5 +1,7 @@
 ### Hola, soy Jairo Mindiola Quintas.
-### Licenciado en Física y estudiante de Maestría en Ingenieria Matemática y Computación.
+### Licenciado en Física.  
+### Estudiante de Doctorado en Física.
+### Estudiante de Maestría en Ingenieria Matemática y Computación.
 
 <p>
   
